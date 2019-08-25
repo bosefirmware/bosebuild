@@ -1,0 +1,38 @@
+<INDEX REVISION="01.00.00">
+  <DEVICE ID="0x1872" PRODUCTNAME="BOSEbuild2">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE REVISION="0.1.5.125" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosebuild/master/BB2/" LANGUAGES="en-us">
+            <IMAGE SUBID="0" LENGTH="1960964" CRC="0XFFFFFFFF" otaCRC="1630950453" FILENAME="BB2_0.1.5_stack_plus_app.dfu" NOFORCE="1" REVISION="0.1.5.125"/>
+            <IMAGE SUBID="1" LENGTH="13660416" CRC="0X5DDBB57A" otaCRC="904876679" FILENAME="BB2_0.1.5_ext_signed.xuv" NOFORCE="0" REVISION="0.1.5.125"/>
+      </RELEASE>
+      <RELEASE REVISION="0.1.6.138" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosebuild/master/BB2/" LANGUAGES="en-us">
+            <IMAGE SUBID="0" LENGTH="1961028" CRC="0XFFFFFFFF" otaCRC="2936805776" FILENAME="BB2_0.1.6_stack_plus_app.dfu" NOFORCE="1" REVISION="0.1.6.138"/>
+            <IMAGE SUBID="1" LENGTH="13660416" CRC="0X891E85BB" otaCRC="2088737064" FILENAME="BB2_0.1.6_ext_signed.xuv" NOFORCE="0" REVISION="0.1.6.138"/>
+      </RELEASE>
+      <RELEASE REVISION="0.1.7.150" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosebuild/master/BB2/" LANGUAGES="en-us">
+            <IMAGE SUBID="0" LENGTH="1939612" CRC="0XFFFFFFFF" otaCRC="700288312" FILENAME="BB2_0.1.7_stack_plus_app.dfu" NOFORCE="1" REVISION="0.1.7.150"/>
+            <IMAGE SUBID="1" LENGTH="1856" CRC="0X22137DEB" otaCRC="3388268415" FILENAME="BB2_0.1.7_ext_signed.xuv" NOFORCE="0" REVISION="0.1.7.150"/>
+      </RELEASE>
+      <RELEASE REVISION="0.2.1.163" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosebuild/master/BB2/" LANGUAGES="en-us">
+            <IMAGE SUBID="0" LENGTH="1943500" CRC="0XFFFFFFFF" otaCRC="1112126021" FILENAME="BB2_0.2.1_stack_plus_app.dfu" NOFORCE="1" REVISION="0.2.1.163"/>
+            <IMAGE SUBID="1" LENGTH="1856" CRC="0X3EEA9A9C" otaCRC="397488136" FILENAME="BB2_0.2.1_ext_signed.xuv" NOFORCE="0" REVISION="0.2.1.163"/>
+      </RELEASE>
+      <RELEASE REVISION="0.2.2.173" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosebuild/master/BB2/" LANGUAGES="en-us">
+            <IMAGE SUBID="0" LENGTH="1943784" CRC="0XFFFFFFFF" otaCRC="256960163" FILENAME="BB2_0.2.2_stack_plus_app.dfu" NOFORCE="1" REVISION="0.2.2.173"/>
+            <IMAGE SUBID="1" LENGTH="1856" CRC="0X2666919F" otaCRC="3440796570" FILENAME="BB2_0.2.2_ext_signed.xuv" NOFORCE="0" REVISION="0.2.2.173"/>
+      </RELEASE>
+      <RELEASE REVISION="0.4.0.189" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosebuild/master/BB2/" LANGUAGES="en-us">
+            <IMAGE SUBID="0" LENGTH="1944472" CRC="0XFFFFFFFF" otaCRC="240684942" FILENAME="BB2_0.4.0_stack_plus_app.dfu" NOFORCE="1" REVISION="0.4.0.189"/>
+            <IMAGE SUBID="1" LENGTH="1856" CRC="0X5667F60F" otaCRC="2596863977" FILENAME="BB2_0.4.0_ext_signed.xuv" NOFORCE="0" REVISION="0.4.0.189"/>
+      </RELEASE>
+      <RELEASE REVISION="0.6.1.237" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosebuild/master/BB2/" LANGUAGES="en-us">
+            <IMAGE SUBID="0" LENGTH="1948244" CRC="0XFFFFFFFF" otaCRC="1240692653" FILENAME="BB2_0.6.1_stack_plus_app.dfu" NOFORCE="1" REVISION="0.6.1.237"/>
+            <IMAGE SUBID="1" LENGTH="1856" CRC="0X83DFFFC8" otaCRC="1700529928" FILENAME="BB2_0.6.1_ext_signed.xuv" NOFORCE="0" REVISION="0.6.1.237"/>
+      </RELEASE>
+	  <RELEASE REVISION="1.0.0.245" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosebuild/master/BB2/" LANGUAGES="en-us">
+            <IMAGE SUBID="0" LENGTH="1948260" CRC="0XFFFFFFFF" otaCRC="2734329750" FILENAME="BB2_1.0.0_stack_plus_app.dfu" NOFORCE="1" REVISION="1.0.0.245"/>
+            <IMAGE SUBID="1" LENGTH="1856" CRC="0XF0D760DB" otaCRC="689783655" FILENAME="BB2_1.0.0_ext_signed.xuv" NOFORCE="0" REVISION="1.0.0.245"/>
+	  </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+</INDEX>
