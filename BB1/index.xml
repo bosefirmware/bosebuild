@@ -1,13 +1,13 @@
 <INDEX REVISION="01.00.00">
   <DEVICE ID="0x1869" PRODUCTNAME="BOSEbuild" UPDATER_TIMEOUT="90000" ESTIMATED_UPDATE_TIME="12">
     <HARDWARE REVISION="01.00.00">
-      <RELEASE REVISION="1.0.6.484" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosebuild/master/BB1/" LANGUAGES="en-us">
+      <RELEASE REVISION="1.0.6.484" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/bosebuild/master/BB1/" LANGUAGES="en-us">
             <IMAGE SUBID="0" LENGTH="1653274" CRC="0XFFFFFFFF" otaCRC="2108144929" FILENAME="BB1_1.0.6.484_stack_plus_app.dfu" NOFORCE="1" REVISION="1.0.6.484"/>
       </RELEASE>
-      <RELEASE REVISION="1.0.8.520" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosebuild/master/BB1/" LANGUAGES="en-us">
+      <RELEASE REVISION="1.0.8.520" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/bosebuild/master/BB1/" LANGUAGES="en-us">
             <IMAGE SUBID="0" LENGTH="1656738" CRC="0XFFFFFFFF" otaCRC="811730993" FILENAME="BB1_1.0.8.520_stack_plus_app.dfu" NOFORCE="1" REVISION="1.0.8.520"/>
       </RELEASE>
-      <RELEASE REVISION="1.1.0.558" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosebuild/master/BB1/" LANGUAGES="en-us">
+      <RELEASE REVISION="1.1.0.558" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/bosebuild/master/BB1/" LANGUAGES="en-us">
             <IMAGE SUBID="0" LENGTH="1659638" CRC="0XFFFFFFFF" otaCRC="1260915298" FILENAME="BB1_1.1.0.558_stack_plus_app.dfu" NOFORCE="1" REVISION="1.1.0.558"/>
       </RELEASE>
     </HARDWARE>
